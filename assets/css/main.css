@@ -3934,3 +3934,11 @@
 .skills-icon i {
 	font-size: 25px;
 }
+
+.fa-github, .fa-linkedin {
+	font-size: 25px;
+}
+
+a.button.scrolly.fa {
+	 padding-top: 5px;
+}
