@@ -3947,3 +3947,7 @@ a.button.scrolly.fa {
 	list-style: none;
 	display:flex;
 }
+
+#image{
+	cursor: default;
+}
