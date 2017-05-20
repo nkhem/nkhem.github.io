@@ -1695,7 +1695,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3950,4 +3950,8 @@ a.button.scrolly.fa {
 
 #image{
 	cursor: default;
+}
+
+.project-bullets {
+	font-size: 13px;
 }
