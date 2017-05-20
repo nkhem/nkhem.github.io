@@ -3917,3 +3917,12 @@
 			}
 
 		}
+
+#gulp-img-box {
+	background-color: #3F1032;
+}
+
+#gulp-img {
+	height: 100%;
+	width: auto;
+}
