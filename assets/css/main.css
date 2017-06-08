@@ -3951,3 +3951,8 @@ a.button.scrolly.fa {
 .project-bullets {
 	font-size: 13px;
 }
+
+span.project-subheaders {
+	font-style: italic;
+	margin-top: 14px;
+}
