@@ -3956,3 +3956,14 @@ span.project-subheaders {
 	font-style: italic;
 	margin-top: 14px;
 }
+
+.school {
+	display: flex;
+	flex-direction: row;
+}
+
+.school-logo{
+	width: 10%;
+	height: 10%;
+	margin-right: 20px;
+}
